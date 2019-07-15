@@ -1,6 +1,6 @@
 # Ruby CLI Music Collection App
 
-This is a small command-line application written in Ruby for managing an imaginary music collection.
+This is a small command-line application written in Ruby for managing an imaginary music collection. Uses the repository pattern, coupled with some syntactic sugar that resembles ActiveRecord queries and ActiveModel validations.
 
 ## Dependencies
 
