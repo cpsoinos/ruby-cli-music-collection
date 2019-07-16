@@ -1,5 +1,5 @@
 require "./models/album"
-require "./tests/spec_helpers"
+require "./specs/spec_helpers"
 
 include SpecHelpers
 

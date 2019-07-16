@@ -1,4 +1,4 @@
-require "./tests/spec_helpers"
+require "./specs/spec_helpers"
 require "./models/music_collection"
 
 include SpecHelpers
